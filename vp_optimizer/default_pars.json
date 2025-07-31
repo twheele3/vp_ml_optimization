@@ -1,0 +1,32 @@
+{
+    "hole_count": 2,
+    "hole_margin": 0,
+    "hole_pars": {
+        "n": 4,
+        "r": 0.4
+    },
+    "hole_range": [
+        10,
+        60
+    ],
+    "kmean_group": [
+        155.40568757,
+        153.75507468,
+        111.35401764
+    ],
+    "mask_shape": "circle",
+    "min_diff": 0.25,
+    "min_support": 1.0,
+    "min_thickness": 0.5,
+    "obj_radius": 3,
+    "obj_thickness": 2,
+    "shape_method": "clip_check",
+    "shape_pars": {
+        "n": 6,
+        "r": 0.7,
+        "shape": 256
+    },
+    "skip_images": [],
+    "voxel_size": 0.04,
+    "working_diameter": 6.4
+}

@@ -1,0 +1,34 @@
+{
+    "A":{
+        "shape_pars":{
+            "n":4,
+            "r":0.6,
+            "shape":1000
+        },
+        "hole_range":[25,250],
+        "hole_margin":-30,
+        "hole_count":2,
+        "hole_pars":{
+            "n":4,
+            "r":0.4
+        },
+        "obj_radius":3,
+        "obj_thickness":1
+    },
+    "B":{
+        "shape_pars":{
+            "n":4,
+            "r":0.6,
+            "shape":1000
+        },
+        "hole_range":[25,250],
+        "hole_margin":-30,
+        "hole_count":2,
+        "hole_pars":{
+            "n":4,
+            "r":0.4
+        },
+        "obj_radius":3,
+        "obj_thickness":2
+    }
+}
